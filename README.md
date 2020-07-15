@@ -1,7 +1,7 @@
 # AllDataPackages
 分词、词表、核心词典、停用词、敏感词等  
 
-# 导航
+## 导航
 [文本语料](https://github.com/qianzhengyang/AllDataPackages/blob/master/%E6%96%87%E6%9C%AC%E8%AF%AD%E6%96%99.md)
 
 ## 核心词表简介
