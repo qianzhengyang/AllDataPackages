@@ -2,7 +2,7 @@
 分词、词表、核心词典、停用词、敏感词等  
 
 ## 导航
-[文本语料](https://github.com/qianzhengyang/AllDataPackages/blob/master/%E6%96%87%E6%9C%AC%E8%AF%AD%E6%96%99.md)
+[文本语料](https://github.com/qianzhengyang/AllDataPackages/blob/master/%E6%96%87%E6%9C%AC%E8%AF%AD%E6%96%99.md) [事件数据](https://github.com/qianzhengyang/AllDataPackages/blob/master/%E4%BA%8B%E4%BB%B6%E6%95%B0%E6%8D%AE.md)
 
 ## 核心词表简介
   本核心词表是由多个来源整理，不限于百科，学术论文期刊，各类网站等，此词表以[中图分类](http://ztflh.xhma.com/)为基础分为7个大类，75个小类，约有1300万左右记录。适用于词典分词，机器学分词、词性标注等常用NLP任务。
